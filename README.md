@@ -72,3 +72,5 @@ Based on our quantitative findings, we propose two actionable rules:
 2.  **Momentum Allocation ("Hot Hand")**:
     - **Rule**: Allocate more capital to traders whose 3-Day Rolling Win Rate > 60%.
     - **Data Backing**: Our Random Forest model identified **Recent Win Rate Momentum** as the #1 strongest predictor of future profitability, outperforming the Sentiment Index itself.
+
+## Streamlit App Link : https://primetradeai-20261409.streamlit.app/
